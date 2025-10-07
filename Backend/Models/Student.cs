@@ -1,4 +1,4 @@
-
+ 
 public class Student:User
 {
     public int sid { get; set; }
