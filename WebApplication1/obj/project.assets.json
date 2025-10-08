@@ -75,19 +75,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Iwang\\.nuget\\packages\\": {}
+    "C:\\Users\\Iwang\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Iwang\\OneDrive - belgiumcampus.ac.za\\3rd_Year\\SEN\\SENsodyneToothpaste\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\OneDrive - belgiumcampus.ac.za\\3rd_Year\\LPR\\SENsodyneToothpaste\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Iwang\\OneDrive - belgiumcampus.ac.za\\3rd_Year\\SEN\\SENsodyneToothpaste\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\OneDrive - belgiumcampus.ac.za\\3rd_Year\\LPR\\SENsodyneToothpaste\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Iwang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Iwang\\OneDrive - belgiumcampus.ac.za\\3rd_Year\\SEN\\SENsodyneToothpaste\\WebApplication1\\obj\\",
+      "outputPath": "D:\\OneDrive - belgiumcampus.ac.za\\3rd_Year\\LPR\\SENsodyneToothpaste\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Iwang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -95,6 +100,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -143,7 +149,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
